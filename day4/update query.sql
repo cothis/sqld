@@ -1,0 +1,1 @@
+UPDATE EXAMPLE SET name='hello';
